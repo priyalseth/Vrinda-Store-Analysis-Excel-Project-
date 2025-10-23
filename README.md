@@ -40,11 +40,6 @@ The dataset includes detailed transaction-level data with the following key colu
 
 ---
 
-##  Dashboard Preview
-![Vrinda Store Dashboard](c954fd96-4691-4932-bfe9-517387ef2259.png)
-
----
-
 ##  Tools Used
 - **Microsoft Excel**
   - Data Cleaning (Removing blanks, duplicates)
@@ -64,7 +59,6 @@ The dataset includes detailed transaction-level data with the following key colu
 | File | Description |
 |------|--------------|
 | `Vrinda Store Analysis.xlsx` | Main Excel workbook containing the data and dashboard |
-| `c954fd96-4691-4932-bfe9-517387ef2259.png` | Dashboard screenshot |
 | `README.md` | Project summary and insights |
 
 ---
