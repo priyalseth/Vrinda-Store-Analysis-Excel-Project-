@@ -1,5 +1,3 @@
-# Vrinda-Store-Analysis-Excel-Project-
-
 # Vrinda Store Sales Analysis (Excel Project)
 
 ## Project Overview
